@@ -4,7 +4,9 @@ Use of Supervised Machine Learning techniques to predict who qualifies for loans
 
 
 
-| First Header  | Second Header |
+| Columns       | Description |
 | ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| Loan_ID       | Unique ID of loan Application |
+| Gender        | Gender of Loan Applicant |
+| Married       | Marital Status of the Applicant |
+|               |                                 |
