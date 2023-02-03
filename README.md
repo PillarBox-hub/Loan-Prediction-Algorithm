@@ -28,4 +28,4 @@ Use of Supervised Machine Learning techniques to predict who qualifies for loans
 |Loan_Amount_Term| Loan Repayment Duration         |
 |Credit_History|   Applicants Credit History       |
 |Property_Area|    Area of Applicants Property     |
-|Loan_Status|   Status of loan applicant           |
+|Loan_Status|   Status of loan applicant           | 
