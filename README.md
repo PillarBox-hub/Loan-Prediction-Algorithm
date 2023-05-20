@@ -33,3 +33,4 @@ These train models were passed though GridsearchCV to help fine tune the hyperpa
 |Credit_History|   Applicants Credit History       |
 |Property_Area|    Area of Applicants Property     |
 |Loan_Status|   Status of loan applicant           | 
+
